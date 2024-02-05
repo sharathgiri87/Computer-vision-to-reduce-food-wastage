@@ -4,7 +4,7 @@
 
 Our focus is to utilize the advancements in science of computer vision to address a key issue of food wastage around the globe. Our project has explored the possibility of combining various established models to achieve this task for instance, GLIP, RESNET50 etc. We have created a model which can be used by airlines, restaurants and individuals to save food by trained the model on generated images using GAN's and manually collected data for the validation process.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sharathgiri87/Computer-vision-to-reduce-food-wastage/blob/main/ML%20pipeline.png?raw=true)
 
 ## How to use
 
