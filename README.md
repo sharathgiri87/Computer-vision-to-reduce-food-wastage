@@ -1,4 +1,4 @@
-# Marketplace-Price-Prediction-using-NLP-and-LSH
+# Computer Vision to Reduce Food Wastage
 
 ## Description
 
